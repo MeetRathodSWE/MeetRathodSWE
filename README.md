@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MeetRathodSWE/MeetRathodSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Meet Rathod 👋
 
-Here are some ideas to get you started:
+### Associate Frontend Developer | React.js | Next.js | Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+<img src="YOUR_IMAGE_URL" width="100%">
+
+</td>
+
+<td width="60%" valign="top">
+
+```text
+┌──────────────────────────────────────────┐
+│              MEET RATHOD                  │
+├──────────────────────────────────────────┤
+│ Frontend     React • Next.js • Tailwind  │
+│ Backend      Node.js • Express           │
+│ Database     MongoDB • PostgreSQL        │
+│ Languages    Python • C++ • JavaScript   │
+│ Tools        Git • GitHub • Vercel       │
+│                                          │
+│ Currently building AI-powered products  │
+└──────────────────────────────────────────┘
