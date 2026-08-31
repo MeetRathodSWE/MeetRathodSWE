@@ -1,32 +1,40 @@
 <div align="center">
 
-# Hi, I'm Meet Rathod 👋
+# 👋 Hey, I'm Meet Rathod
 
-### Associate Frontend Developer | React.js | Next.js | Full Stack
+### Associate Frontend Developer · Full Stack Developer · Computer Science Student
 
 </div>
 
----
-
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="32%" valign="top">
 
-<img src="YOUR_IMAGE_URL" width="100%">
+<div align="center">
 
-</td>
+<img src="./assets/profile.png" width="230" alt="Meet Rathod">
 
-<td width="60%" valign="top">
+<br><br>
+
+### `meet@github:~$`
 
 ```text
-┌──────────────────────────────────────────┐
-│              MEET RATHOD                  │
-├──────────────────────────────────────────┤
-│ Frontend     React • Next.js • Tailwind  │
-│ Backend      Node.js • Express           │
-│ Database     MongoDB • PostgreSQL        │
-│ Languages    Python • C++ • JavaScript   │
-│ Tools        Git • GitHub • Vercel       │
-│                                          │
-│ Currently building AI-powered products  │
-└──────────────────────────────────────────┘
+$ whoami
+
+Meet Rathod
+
+$ role
+
+Associate Frontend Developer
+
+$ focus
+
+Frontend + Full Stack
+
+$ location
+
+Mumbai, India
+
+$ status
+
+Building & Learning 🚀
